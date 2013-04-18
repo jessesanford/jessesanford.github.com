@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Jesse Sanford - Durrability, Scalability, Availability
-header: Durrability, Scalability, Availability
+title: Jesse Sanford - Durability, Scalability, Availability
+header: Durability, Scalability, Availability
 ---
 
 <ul class="posts">
